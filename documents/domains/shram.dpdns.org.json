@@ -1,0 +1,9 @@
+{
+    "domain": "shram.dpdns.org",
+    "owner": {
+        "username": "Anand75240",
+        "email": "anand123marshettiwar@gmail.com"
+    },
+    "provider": "cloudflare",
+    "cloudflare_account_id": "bf2e9ee78e6c1a53e7eaa54098166391"
+}
